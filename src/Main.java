@@ -54,7 +54,7 @@ public class Main {
                                 System.out.println("\n[!] Producto Encontrado: ID: " 
                                     + encontrado.id + " - Nombre: " + encontrado.nombre);
                             } else {
-                                System.out.println("\n[X] El producto con ID " + idBuscar + " NO existe.");
+                                System.out.println("\n[X] El producto con ID " + idBuscar + " No se ha encontrado.");
                             }
                         } else {
                             System.out.println("El ID a buscar debe ser un número entero.");
