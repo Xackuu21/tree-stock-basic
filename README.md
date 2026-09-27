@@ -6,7 +6,7 @@ Tree-Stock es una aplicación de consola desarrollada en Java que gestiona un in
 
 El objetivo principal fue entender cómo funcionan las **estructuras dinámicas en memoria** mediante el uso de referencias ("punteros") y la **recursividad**. 
 
-Al usar un árbol binario organizado por el `ID` del producto, logramos que la búsqueda sea eficiente y que el inventario se pueda imprimir ordenado automáticamente gracias al recorrido **Inorden**.
+Al usar un árbol binario organizado por el `ID` del producto, logré que la búsqueda sea eficiente y que el inventario se pueda imprimir ordenado automáticamente gracias al recorrido **Inorden**.
 
 ---
 
