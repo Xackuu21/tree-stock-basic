@@ -33,3 +33,5 @@ El proyecto está dividido estrictamente en tres clases para mantener una buena 
 2. Mostrar Inventario  -> Ejecuta el recorrido Inorden.
 3. Buscar Producto     -> Consulta si existe un ID específico.
 0. Salir               -> Finaliza la ejecución.
+
+Link del video: https://drive.google.com/file/d/1e1MXQwMnS7n8HmANoK3PBvmzIAE86Tag/view?usp=drive_link
